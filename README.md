@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Murdock0099
-- 🌱 I’m currently learning Python and HTML+CSS
+- 🌱 I’m currently learning Python and HTML
 - 📫 How to reach me jantuszkiewicz71@gmail.com
 
 <!---
